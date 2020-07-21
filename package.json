@@ -1,0 +1,14 @@
+{
+  "name": "mobx-render",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:szagi3891/mobx-render.git",
+  "author": "Grzegorz Szeliga <szeligagrzegorz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}

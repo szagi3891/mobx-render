@@ -1,0 +1,1 @@
+console.info("index.tsx run - mobx-render");
