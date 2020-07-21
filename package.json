@@ -6,6 +6,8 @@
   "author": "Grzegorz Szeliga <szeligagrzegorz@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.2.2",
     "parcel": "^1.12.4"
   },
   "devDependencies": {
